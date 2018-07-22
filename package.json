@@ -1,0 +1,9 @@
+{
+  "name": "hadslp2",
+  "version": "1.0.0",
+  "description": "Simple library to parse the HadSLP2 format from met office.",
+  "main": "index.js",
+  "keywords": ["weather", "parser", "atmosphere"],
+  "author": "Martin Eskdale Moen <martin@martinmoen.com> (https://martinmoen.com)",
+  "license": "ISC"
+}
